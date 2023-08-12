@@ -1,0 +1,141 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#smileyContainer {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the smileys */
+    align-content: space-between; /* Space the rows evenly */
+}
+
+.smiley {
+    width: 64px;
+    height: 64px;
+    margin: 5px; /* Adjust for spacing */
+    border: 2px solid #001122;
+    border-color: blue;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.smileyDiv {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.smileyWrapper {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    width: 64px;
+    height: 64px;
+    text-align: center; /* This ensures horizontal centering */
+}
+
+.numberOverlay {
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    transform: translate(-50%, -50%); /* This centers both horizontally and vertically */
+    z-index: 2;
+    color: white; /* Set the text color of the number to white */
+    font-size: 12px; /* Adjust this value to make the number smaller or larger */
+    background-color: transparent; /* Set the background to be transparent */
+}
+
+.eye {
+    width: 8px;
+    height: 8px;
+    background-color: #001122;
+    border-radius: 50%;
+    position: absolute;
+}
+
+    .eye.left {
+        left: 35%;
+        top: 40%;
+    }
+
+    .eye.right {
+        right: 35%;
+        top: 40%;
+    }
+
+button {
+    width: 64px;
+    height: 64px;
+    /* Background Image */
+    background-image: url('../img/universe_icon.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* Semi-transparent button color */
+    background-color: rgba(8, 143, 143, 0.9); /* #088F8F with 70% opacity */
+    /* Colors & Font styling */
+    color: white;
+    font-weight: bold;
+    /* Button Sizing and Shape */
+    padding: 10px 20px; /* Adjust as needed */
+    border-radius: 25px;
+    /* Sticking Out Effect */
+    border: 3px solid #088F8F; /* Solid color border to create depth */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1), inset 0 -2px 4px rgba(255,255,255,0.2), inset 0 2px 4px rgba(0,0,0,0.2); /* Mixed inner shadows for depth */
+    /* Other styles */
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s; /* Smooths the press effect and shadow change */
+    text-align: center;
+    line-height: 1.4;
+    overflow: hidden; /* Hides any overflowing text */
+    font-size: 12px;
+}
+
+    button:hover {
+        box-shadow: 0 5px 10px rgba(0,0,0,0.2), inset 0 -3px 6px rgba(255,255,255,0.3), inset 0 3px 6px rgba(0,0,0,0.3); /* Adjust the shadow a bit on hover */
+    }
+
+    button:active {
+        transform: translateY(2px); /* Moves the button slightly down when pressed */
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1), inset 0 -1px 2px rgba(255,255,255,0.3), inset 0 1px 2px rgba(0,0,0,0.2); /* Reduce the shadows for a pressed-in effect */
+    }
+
+#control_screen {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../img/control_screen.svg');
+    background-size: auto 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 8px;
+}
+
+#buttonContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    text-align: center;
+}
