@@ -195,3 +195,19 @@ button {
     width: 100vw;
     text-align: center;
 }
+
+#menu {
+    font-family: Arial, sans-serif;
+}
+
+    #menu ul {
+        list-style-type: none;
+        padding-left: 20px;
+    }
+
+    #menu span {
+        cursor: pointer;
+    }
+
+
+
