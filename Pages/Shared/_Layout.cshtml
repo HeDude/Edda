@@ -23,7 +23,16 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Control">Control</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Monitor">Monitor</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Resource">Resource</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Goal">Goal</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Method">Method</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Plan">Plan</a>
@@ -35,7 +44,13 @@
                 </div>
             </div>
         </nav>
+        <div class="ai-chatbox">
+            <h2>AI assistance</h2>
+            <p>Ask me anything about your dashboard or order me to design your wishes, and I'll assist you!</p>
+            <input type="text" placeholder="How can I design a SMART learning goal?">
+        </div>
     </header>
+ 
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
