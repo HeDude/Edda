@@ -1,4 +1,4 @@
-html {
+﻿html {
   font-size: 14px;
   position: relative;
   min-height: 100%;
@@ -101,7 +101,52 @@ button {
     text-align: center; /* This ensures horizontal centering */
 }
 
-.numberOverlay {
+.ai-chatbox {
+    background-color: #fff;
+    padding: 20px;
+    margin-left: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 900px;
+}
+
+    .ai-chatbox h2 {
+        margin: 0;
+        font-size: 24px;
+        color: #333;
+    }
+
+    .ai-chatbox p {
+        font-size: 16px;
+        color: #777;
+        margin: 10px 0 20px;
+    }
+
+    .ai-chatbox input[type="text"] {
+        width: 100%;
+        padding: 10px 15px;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        font-size: 16px;
+        outline: none;
+        transition: border 0.3s;
+    }
+
+        .ai-chatbox input[type="text"]:focus {
+            border-color: #5c9df5;
+        }
+
+    .ai-chatbox::before {
+        content: '🤖';
+        font-size: 40px;
+        position: absolute;
+        left: 80%;
+        top: 15%;
+        transform: translate(-50%, -50%);
+    }
+    
+    
+    .numberOverlay {
     position: absolute;
     top: 60%;
     left: 60%;
