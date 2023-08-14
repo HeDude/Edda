@@ -1,0 +1,30 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Goal";
+}
+<br/>
+<p>On this page, you can construct SMART learning skilss and organize them into structured paths and hierarchies. Use the eye icon to view details, the pencil icon to indicate edits, and the move arrows to reorder.</p>
+
+<ul id="menu"></ul>
+<script src="~/js/skill-hierachy.js" asp-append-version="true"></script>
+
+<div id="graph-guide">
+    <ul>
+        <li><strong>Nodes (Neurons)</strong>: Represent skills.
+            <ul>
+                <li><span style="color:green">Green</span>: Achieved skills.</li>
+                <li><span style="color:blue">Blue</span>: Skills being worked on.</li>
+                <li><span style="color:red">Red</span>: Skills to be started.</li>
+            </ul>
+        </li>
+        <li><strong>Dendrites & Links</strong>: Show relationships between skills. Text alongside indicates milestones.</li>
+        <li><strong>Layout</strong>: Nodes repel each other, links pull related nodes together.</li>
+        <li><strong>Interactivity</strong>: Drag nodes to explore. They adjust back into position on release.</li>
+        <li><strong>Direction</strong>: Start from the left (initial skills) and move right to follow the learning journey.</li>
+    </ul>
+</div>
+
+<svg width="800" height="600" id="neural_network"></svg>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="~/js/force-directed_graph.js" asp-append-version="true"></script>
