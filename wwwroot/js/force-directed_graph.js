@@ -10,13 +10,13 @@ var nodes = [
 ];
 
 var links = [
-    { source: 0, target: 2, activity: "Activity 1" },
-    { source: 0, target: 3, activity: "Activity 2" },
-    { source: 1, target: 2, activity: "Activity 3" },
-    { source: 2, target: 4, activity: "Activity 4" },
-    { source: 3, target: 4, activity: "Activity 5" },
-    { source: 4, target: 5, activity: "Activity 6" },
-    { source: 4, target: 6, activity: "Activity 7" }
+    { source: 0, target: 2, activity: "Activity 1", weight: 4 },
+    { source: 0, target: 3, activity: "Activity 2", weight: 8 },
+    { source: 1, target: 2, activity: "Activity 3", weight: 10 },
+    { source: 2, target: 4, activity: "Activity 4", weight: 2 },
+    { source: 3, target: 4, activity: "Activity 5", weight: 6 },
+    { source: 4, target: 5, activity: "Activity 6", weight: 8 },
+    { source: 4, target: 6, activity: "Activity 7", weight: 6 }
 ];
 
 var svg = d3.select("#neural_network"),
@@ -53,14 +53,17 @@ var simulation = d3.forceSimulation(nodes)
     .force("y", d3.forceY(height / 2))
     .force("collide", d3.forceCollide(100));  // Add a collision force with a radius of 100
 
+// Use paths for links to allow for curved connectors
 var link = svg.append("g")
     .selectAll("path")
     .data(links)
     .enter().append("path")
-    .attr("fill", "none")
     .attr("stroke", "#999")
     .attr("stroke-opacity", 0.6)
-    .attr("stroke-width", 3);
+    .attr("stroke-width", function (d) {
+        return Math.max(1, d.weight);  // Ensure a minimum stroke-width of 1
+    })
+    .attr("fill", "none");
 
 var linkText = svg.append("g")
     .selectAll("text")
@@ -136,10 +139,17 @@ var nodeText = svg.append("g")
     .attr("text-anchor", "middle");
 
 simulation.on("tick", function () {
-    link
-        .attr("d", function (d) {
-            return "M" + d.source.x + "," + d.source.y + " C" + (d.source.x + d.target.x) / 2 + "," + d.source.y + " " + (d.source.x + d.target.x) / 2 + "," + d.target.y + " " + d.target.x + "," + d.target.y;
-        });
+    link.attr("d", function (d) {
+        var dx = d.target.x - d.source.x,
+            dy = d.target.y - d.source.y,
+            dr = Math.sqrt(dx * dx + dy * dy);  // distance
+        return "M" +
+            d.source.x + "," +
+            d.source.y + "A" +
+            dr + "," + dr + " 0 0,1 " +
+            d.target.x + "," +
+            d.target.y;
+    });
 
     linkText
         .attr("x", function (d) { return (d.source.x + d.target.x) / 2; })
