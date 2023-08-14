@@ -3,8 +3,20 @@
 @{
     ViewData["Title"] = "Monitor";
 }
+<div id="explanation">
+    <p>
+        The graph represents the social interactions between learners. The thickness of a link represents the degree of interaction. If there's no interaction at all, a red circle is drawn around the learner as a warning indicating that the individual is operating alone.
+    </p>
+    <ul>
+        <li><strong>Red:</strong> Indicates either too much or too little interaction.</li>
+        <li><strong>Green:</strong> Represents the ideal amount of interaction.</li>
+        <li><strong>Blue:</strong> Suggests that the interaction is sufficient.</li>
+    </ul>
+</div>
 <div id="control_screen"><div id="smileyContainer"></div></div>
 <div id="buttonContainer"></div>
 
-<script src="~/js/smiley.js" asp-append-version="true"></script>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<!-- <script src="~/js/smiley.js" asp-append-version="true"></script> -->
+<script src="~/js/social.js" asp-append-version="true"></script>
 <script src="~/js/collective.js" asp-append-version="true"></script>
