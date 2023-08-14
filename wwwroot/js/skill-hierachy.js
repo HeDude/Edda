@@ -1,5 +1,5 @@
 // Fetch the JSON data from the file
-fetch('./model/goal.json')
+fetch('./model/skill.json')
     .then(response => response.json())
     .then(data => {
         // Function to check if an item has children
