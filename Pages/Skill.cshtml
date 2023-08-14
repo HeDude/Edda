@@ -4,7 +4,7 @@
     ViewData["Title"] = "Goal";
 }
 <br/>
-<p>On this page, you can construct SMART learning skilss and organize them into structured paths and hierarchies. Use the eye icon to view details, the pencil icon to indicate edits, and the move arrows to reorder.</p>
+<p>On this page, you can construct SMART learning skills and organize them into structured paths and hierarchies. Use the eye icon to view details, the pencil icon to indicate edits, and the move arrows to reorder.</p>
 
 <ul id="menu"></ul>
 <script src="~/js/skill-hierachy.js" asp-append-version="true"></script>
@@ -17,11 +17,9 @@
                 <li><span style="color:blue">Blue</span>: Skills being worked on.</li>
                 <li><span style="color:red">Red</span>: Skills to be started.</li>
             </ul>
+            Drag or click nodes to explore. Start from the left (initial skills) and move right to follow the learning journey.
         </li>
-        <li><strong>Dendrites & Links</strong>: Show relationships between skills. Text alongside indicates milestones.</li>
-        <li><strong>Layout</strong>: Nodes repel each other, links pull related nodes together.</li>
-        <li><strong>Interactivity</strong>: Drag nodes to explore. They adjust back into position on release.</li>
-        <li><strong>Direction</strong>: Start from the left (initial skills) and move right to follow the learning journey.</li>
+        <li><strong>Dendrites & Links</strong>: Shows how learning activities can lead to new skills emerging from Prior Acquired Skills. The thickness indicates the study load or weight of the activity for example in <a href="https://en.wikipedia.org/wiki/European_Credit_Transfer_and_Accumulation_System">ECTS</a>.</li>
     </ul>
 </div>
 
