@@ -1,0 +1,219 @@
+{
+    "Codeniacs000000": {
+        "parent": "",
+        "title": "Codeniacs000000",
+        "name": "Codeniacs",
+        "type": "Learning",
+        "description": "De leerling kan ondernemend leren toepassen in ICT en alle 21st century skills trainen door binnen een deadline een eigen game, website of app te bouwen en uit te dragen."
+    },
+    "Codeniacs010100": {
+        "parent": "Codeniacs010000",
+        "title": "Codeniacs010100",
+        "name": "Ondernemendheid",
+        "type": "Learning",
+        "description": "De leerling kan tijdens de trainingsperiode het gegeven eigenaarschap bij het maken van een eigen game, omzetten in het zelf reguleren van de leeractiviteiten die daarnaar leiden, hetgeen blijkt uit een met 80% verminderd beroep op ondersteuning door de trainer daarbij."
+    },
+    "Codeniacs010200": {
+        "parent": "Codeniacs010000",
+        "title": "Codeniacs010200",
+        "name": "Betrokkenheid",
+        "type": "Learning",
+        "description": "De leerling kan actief participeren in het samen met anderen bouwen van een game en de leerresultaten na afloop van de trainingsperiode presenteren tijdens een meetup en in een artikel met 80% tevredenheid bij de ontvangers."
+    },
+    "Codeniacs010300": {
+        "parent": "Codeniacs010000",
+        "title": "Codeniacs010300",
+        "name": "Nieuwsgierigheid",
+        "type": "Learning",
+        "description": "De leerling kan de houding van een game-developer aannemen door logisch te denken en pro-actief uitdagingen aan te gaan, hetgeen leidt tot minimaal 80% verminderde begeleiding van de trainer op dit vlak."
+    },
+    "Codeniacs010102": {
+        "parent": "Codeniacs010100",
+        "title": "Codeniacs010102",
+        "name": "Samenwerken",
+        "type": "Learning",
+        "description": "De leerling kan tijdens de trainingsperiode de leiding nemen over een team waarmee hij of zij samenwerkt hetgeen zichtbaar is door initiaties van activiteiten, overzichten, een concreet plan en situaties van mediatie te presenteren tijdens de meetup en\/of te beschrijven in een artikel."
+    },
+    "Codeniacs010201": {
+        "parent": "Codeniacs010200",
+        "title": "Codeniacs010201",
+        "name": "Communiceren",
+        "type": "Learning",
+        "description": "De leerling kan zijn eigen idee\u00ebn over een unieke game overbrengen aan anderen in woord tijdens de afrondende presentatie en op schrift op de Codeniacs wiki, naar tevredenheid van minimaal 80% van de luisteraars en lezers."
+    },
+    "Codeniacs010301": {
+        "parent": "Codeniacs010300",
+        "title": "Codeniacs010301",
+        "name": "Denken",
+        "type": "Learning",
+        "description": "De leerling kan de basic logica van een programma toepassen in het ontwerp van een game, hetgeen blijkt in het uiteindelijke product te zijn verwerkt na afloop van de trainingsperiode."
+    },
+    "Codeniacs010202": {
+        "parent": "Codeniacs010200",
+        "title": "Codeniacs010202",
+        "name": "Participeren",
+        "type": "Learning",
+        "description": "De leerling kan na 25% van de trainingsperiode zelf de verantwoordelijkheid nemen in het volgen van zijn of haar interesses, door een actieve deelname aan het team tijdens minimaal 2 observaties van de trainer zonder dat hij of zij interventies heeft gepleegd."
+    },
+    "Codeniacs020302": {
+        "parent": "Codeniacs020300",
+        "title": "Codeniacs020302",
+        "name": "Oplossen",
+        "type": "Learning",
+        "description": "De leerling kan pro-actief een eigen uitdaging oppakken vanuit een bepaalde oplossingsstrategie, hetgeen blijkt uit met 80% verminderd beroep op de trainer hierbij."
+    },
+    "Codeniacs010000": {
+        "parent": "Codeniacs000000",
+        "title": "Codeniacs010000",
+        "name": "Game",
+        "type": "Learning",
+        "description": "De leerling kan binnen een deadline zelf een eigen bedachte game bouwen die qua functionaliteit minimaal voldoet aan een combinatie van PAC man en Donkey Kong en daarop een nog niet eerder gekozen specialisatie uit de moderne vakgebieden van de ICT toepassen."
+    },
+    "Codeniacs020000": {
+        "parent": "Codeniacs000000",
+        "title": "Codeniacs020000",
+        "name": "Website",
+        "type": "Learning",
+        "description": "De leerling kan binnen een deadline een eigen website bouwen waarin minimaal HTML, CSS en javascript is gebruikt, middels een zelfgekozen tool, draaiend op een eigen webserver\u00a0en daarop een nog niet eerder gekozen specialisatie uit de moderne vakgebieden van de ICT toepassen."
+    },
+    "Codeniacs030000": {
+        "parent": "Codeniacs000000",
+        "title": "Codeniacs030000",
+        "name": "Programma",
+        "type": "Learning",
+        "description": "De leerling kan binnen een deadline een eigen programma bouwen in een zelfgekozen programmeertaal die zelfstandig draait op een besturingssysteem naar keuze en daarop een nog niet eerder gekozen specialisatie uit de moderne vakgebieden van de ICT toepassen."
+    },
+    "Codeniacs010101": {
+        "parent": "Codeniacs010100",
+        "title": "Codeniacs010101",
+        "name": "Cre\u00ebren",
+        "type": "Learning",
+        "description": "De leerling kan binnen een gestelde deadline zelf een game cre\u00ebren die uniek is en minimaal die functionaliteiten bevatten die Donkey Kong en Pacman bevatten."
+    },
+    "Codeniacs020100": {
+        "parent": "Codeniacs020000",
+        "title": "Codeniacs020100",
+        "name": "Ondernemendheid",
+        "type": "Learning",
+        "description": "De leerling kan tijdens de trainingsperiode eigenaarschap nemen in het maken van een eigen website en de leeractiviteiten die daarnaar leiden zelfstandig reguleren, hetgeen blijkt uit een met 80% verminderd beroep op ondersteuning door de trainer daarbij."
+    },
+    "Codeniacs030100": {
+        "parent": "Codeniacs030000",
+        "title": "Codeniacs030100",
+        "name": "Ondernemendheid",
+        "type": "Learning",
+        "description": "De leerling kan eigenaarschap nemen, aan andere teamleden geven om samen een eigen computerprogramma te schrijven en daarbij zelf zijn eigen leeractiviteiten en die van zijn team effectief reguleren, hetgeen blijkt uit een met 80% verminderd beroep op ondersteuning door de trainer daarbij."
+    },
+    "Codeniacs010302": {
+        "parent": "Codeniacs010300",
+        "title": "Codeniacs010302",
+        "name": "Oplossen",
+        "type": "Learning",
+        "description": "De leerling kan zelf de complexiteit, weerstand en tegenslag overwinnen die horen bij het ontwikkelen van computer- en internetvaardigheden, zodat men kan werken met een online platform als Scratch, hetgeen blijkt uit met 80% verminderd beroep op de trainer hierbij."
+    },
+    "Codeniacs030302": {
+        "parent": "Codeniacs030300",
+        "title": "Codeniacs030302",
+        "name": "Oplossen",
+        "type": "Learning",
+        "description": "De leerling kan nieuwe oplossingsstrategie\u00ebn aan zijn gereedschapskist toevoegen door zelf te reflecteren op de uitvoering van een gekozen oplossing, hetgeen blijkt uit met 80% verminderd beroep op de trainer hierbij."
+    },
+    "Codeniacs020101": {
+        "parent": "Codeniacs020100",
+        "title": "Codeniacs020101",
+        "name": "Cre\u00ebren",
+        "type": "Learning",
+        "description": "De leerling kan binnen een gestelde deadline zelf een website bouwen die uniek is qua opmaak, elementen en functionaliteit met een omvang minimaal gelijk aan de Codeniacs website."
+    },
+    "Codeniacs030101": {
+        "parent": "Codeniacs030100",
+        "title": "Codeniacs030101",
+        "name": "Cre\u00ebren",
+        "type": "Learning",
+        "description": "De leerling kan\u00a0binnen een gestelde deadline zelf een programma schrijven die uniek is, geschreven is in een 3e generatie programmeertaal en in ieder geval een grafisch user interface bevat."
+    },
+    "Codeniacs020200": {
+        "parent": "Codeniacs020000",
+        "title": "Codeniacs020200",
+        "name": "Betrokkenheid",
+        "type": "Learning",
+        "description": "De leerling kan actief participeren in het samen met anderen bouwen van een website en de leerresultaten presenteren tijdens een meetup en in een artikel\u00a0met 80% tevredenheid bij de ontvangers."
+    },
+    "Codeniacs030200": {
+        "parent": "Codeniacs030000",
+        "title": "Codeniacs030200",
+        "name": "Betrokkenheid",
+        "type": "Learning",
+        "description": "De leerling kan actief participeren in het samen met anderen bouwen van een programma en de leerresultaten presenteren tijdens een meetup en in een artikel\u00a0met 80% tevredenheid bij de ontvangers."
+    },
+    "Codeniacs020201": {
+        "parent": "Codeniacs020200",
+        "title": "Codeniacs020201",
+        "name": "Communiceren",
+        "type": "Learning",
+        "description": "De leerling kan op het juiste moment aan anderen voldoende feedback in woord en op schrift geven over wat er in het leerproces aan de hand is, wat er is afgesproken over de taken en de resultaten en wat er nodig is om het samen beter te doen, hetgeen blijkt uit de tussenevaluaties door de trainer wat betreft de voortgang."
+    },
+    "Codeniacs030201": {
+        "parent": "Codeniacs030200",
+        "title": "Codeniacs030201",
+        "name": "Communiceren",
+        "type": "Learning",
+        "description": "De leerling kan aan het eind van de trainingsperiode in woord en op schrift zijn of haar mening overtuigend overbrengen op anderen en anderen positief coachen hetzelfde te doen zodat iedereen in zijn team voldoende wordt gehoord, hetgeen blijkt uit observaties van de trainer zonder interventies van het groepsproces.\u00a0"
+    },
+    "Codeniacs020102": {
+        "parent": "Codeniacs020100",
+        "title": "Codeniacs020102",
+        "name": "Samenwerken",
+        "type": "Learning",
+        "description": "De leerling kan tijdens de trainingsperiode een gebalanceerd team samenstellen die bestaat uit deelnemers met verschillende persoonlijkheden, talenten en achtergronden en te laten zien tijdens de meetup en\/of in het artikel op de wiki dat ze effectief hebben samengewerkt."
+    },
+    "Codeniacs030102": {
+        "parent": "Codeniacs030100",
+        "title": "Codeniacs030102",
+        "name": "Samenwerken",
+        "type": "Learning",
+        "description": "De leerling kan halverwege de trainingsperiode een eigen stappenplan voor de bouw van programma opleveren die afgestemd is qua rol, inhoud en proces met die van de andere teamspelers, hetgeen het geval is als alle losse plannen samen leiden tot een effectief teamplan."
+    },
+    "Codeniacs020300": {
+        "parent": "Codeniacs020000",
+        "title": "Codeniacs020300",
+        "name": "Nieuwsgierigheid",
+        "type": "Learning",
+        "description": "De leerling kan de houding van een webdesigner aannemen door logisch te denken en pro-actief uitdagingen aan te gaan, hetgeen leidt tot minimaal 80% verminderde begeleiding van de trainer op dit vlak."
+    },
+    "Codeniacs030300": {
+        "parent": "Codeniacs030000",
+        "title": "Codeniacs030300",
+        "name": "Nieuwsgierigheid",
+        "type": "Learning",
+        "description": "De leerling kan de houding van een programmeur aannemen door logisch te denken en pro-actief uitdagingen aan te gaan, hetgeen leidt tot minimaal 80% verminderde begeleiding van de trainer op dit vlak."
+    },
+    "Codeniacs020301": {
+        "parent": "Codeniacs020300",
+        "title": "Codeniacs020301",
+        "name": "Denken",
+        "type": "Learning",
+        "description": "De leerling kan de opmaak (CSS), de elementen (HTML) en de functies (Javascript) van een bestaande website (met een tool naar keuze) zodanig aanpassen dat een unieke website ontstaat, waarin deze aspecten zijn verwerkt na afloop van de trainingsperiode."
+    },
+    "Codeniacs030301": {
+        "parent": "Codeniacs030300",
+        "title": "Codeniacs030301",
+        "name": "Denken",
+        "type": "Learning",
+        "description": "De leerling kan een eigen programma bedenken, ontwerpen en de bouw ervan plannen, hetgeen blijkt uit de werking en de beschrijving van het uiteindelijke product na afloop van de trainingsperiode."
+    },
+    "Codeniacs020202": {
+        "parent": "Codeniacs020200",
+        "title": "Codeniacs020202",
+        "name": "Participeren",
+        "type": "Learning",
+        "description": "De leerling kan zichzelf motiveren door zijn interesses, talenten en persoonlijkheid in kaart te brengen om zo een actieve en passende rol af te dwingen in het team, hetgeen blijkt uit een niet meer dan 20% mindere inzet ten opzichte van de gemiddelde activiteiten van het team tijdens de meetups en bij het schrijven van een artikel over de bouw de eigen website."
+    },
+    "Codeniacs030202": {
+        "parent": "Codeniacs030200",
+        "title": "Codeniacs030202",
+        "name": "Participeren",
+        "type": "Learning",
+        "description": "De leerling kan naast zijn eigen actieve participatie in het team bij het bouwen van een programma ook die van andere teamspelers bevorderen, hetgeen blijkt uit minimaal 2 observaties door de trainer tijdens de trainingsperiode."
+    }
+}

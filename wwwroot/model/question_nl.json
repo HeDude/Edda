@@ -1,0 +1,2315 @@
+{
+    "about_what_may_I_ask_you_something": {
+        "title": "Waarover mag ik je iets vragen?",
+        "choice": [
+            {
+                "answer": "Wijsheid over jou",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            },
+            {
+                "answer": "Wijsheid over leven",
+                "response": {
+                    "on_which_topic_may_i_ask_you_a_question": 100
+                }
+            },
+            {
+                "answer": "Wijsheid over leren",
+                "response": {
+                    "when_is_learning_fun": 100,
+                    "what_is_the_benefit_of_smart_learning": 100
+                }
+            }
+        ]
+    },
+    "how_can_i_deal_with_my_fear_for_death": {
+        "title": "Hoe kan ik met mijn angst voor de dood omgaan?",
+        "choice": [
+            {
+                "answer": "Door bescheiden te zijn Als niet alles om jou draait dan is het makkelijker om je dood te nuanceren",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Door je angst te verminderen",
+                "response": {
+                    "how_can_i_reduce_fear": 100
+                }
+            },
+            {
+                "answer": "Accepteer dat de dood iets natuurlijks is net als elke verandering",
+                "response": {
+                    "how_to_accept_things_as_there_are": 100,
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            }
+        ]
+    },
+    "how_can_i_reduce_fear": {
+        "title": "Hoe kan ik angst verminderen?",
+        "choice": [
+            {
+                "answer": "Door je stapsgewijs minder gevoelig te maken voor een bepaald angst",
+                "response": {
+                    "what_is_fear": 100
+                }
+            },
+            {
+                "answer": "Door de angst onder ogen te zien terwijl je kalm en met een glimlach ademt",
+                "response": {
+                    "what_is_fear": 100,
+                    "how_do_you_stay_calm": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_help_other_people": {
+        "title": "Hoe kunnen we andere mensen helpen?",
+        "choice": [
+            {
+                "answer": "Door zelf een lichtend voorbeeld te zijn",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Door bescheiden te zijn",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Door zelf gelukkig te zijn",
+                "response": {
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            },
+            {
+                "answer": "Door goed te luisteren naar wat ze nodig hebben",
+                "response": {
+                    "how_can_you_listen_more_deeply": 100
+                }
+            }
+        ]
+    },
+    "how_can_i_trust_myself": {
+        "title": "Hoe kan ik mezelf vertrouwen?",
+        "choice": [
+            {
+                "answer": "Zelfvertrouwen is iets dat je kweekt op basis van jouw geloof, daar zelf wat mee doen en ervaren wat je bereikt",
+                "response": {
+                    "what_is_faith": 100
+                }
+            },
+            {
+                "answer": "Twijfelen kan je ook helpen, bijvoorbeeld om jezelf beter te begrijpen",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            },
+            {
+                "answer": "Door te zoeken naar de goedheid in jezelf",
+                "response": {
+                    "what_is_good": 100
+                }
+            }
+        ]
+    },
+    "how_can_we_transform_frustration_into_fulfillment": {
+        "title": "Hoe kunnen we tegenslag omzetten in succes?",
+        "choice": [
+            {
+                "answer": "Door kalm te blijven",
+                "response": {
+                    "how_do_you_stay_calm": 100,
+                    "how_do_you_deal_with_anger": 100
+                }
+            },
+            {
+                "answer": "Het is al een lot uit de loterij hier op aarde als mens juist nu te zijn geboren",
+                "response": {
+                    "what_is_life": 100
+                }
+            }
+        ]
+    },
+    "how_do_i_know_if_i_made_the_right_decision": {
+        "title": "Hoe weet ik of ik de juiste beslissing heb genomen?",
+        "choice": [
+            {
+                "answer": "Dat weet je niet, durf met plezier fouten te maken",
+                "response": {
+                    "what_is_knowing": 100
+                }
+            },
+            {
+                "answer": "Wat vandaag juist lijkt, kan morgen verkeerd blijken te zijn",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100,
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Wat de ene persoon juist lijkt, kan de ander verkeerd vinden",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100,
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Mensen die denken altijd het goede te doen, hebben vaak veel ellende aangericht.",
+                "response": {
+                    "what_is_good": 100,
+                    "what_connects_us_as_human_beings": 100,
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Goed of fout?....doe gewoon hetgeen jou en anderen gelukkiger lijkt te maken",
+                "response": {
+                    "what_is_good": 100,
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            }
+        ]
+    },
+    "what_is_the_best_way_to_face_your_feelings": {
+        "title": "Hoe kun je het beste jouw gevoelens onder ogen zien?",
+        "choice": [
+            {
+                "answer": "Door deze eruit te gooien",
+                "response": {
+                    "what_are_feelings": 100,
+                    "why_is_it_wise_to_be_kind": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Door deze te kalm grondig te verkennen",
+                "response": {
+                    "how_to_accept_things_as_there_are": 100,
+                    "how_can_you_be_sure_about_something": 100,
+                    "how_do_you_stay_calm": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_change_your_lifestyle_to_become_more_happy": {
+        "title": "Hoe kan ik mijn leefstijl zo veranderen dat ik gelukkiger wordt?",
+        "choice": [
+            {
+                "answer": "Door fijne mensen om je heen te verzamelen",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Door anders te gaan eten",
+                "response": {
+                    "how_do_you_stay_calm": 100,
+                    "how_can_you_improve_how_you_feel": 100,
+                    "what_makes_you_unhappy": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            },
+            {
+                "answer": "Door anders over dingen na te gaan denken",
+                "response": {
+                    "how_do_you_stay_calm": 100,
+                    "how_can_you_improve_how_you_feel": 100,
+                    "what_makes_you_unhappy": 100,
+                    "why_can_i_sometimes_sleep_poorly_at_night": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_listen_more_deeply": {
+        "title": "Hoe kan ik beter luisteren naar een ander?",
+        "choice": [
+            {
+                "answer": "Wees je eerst bewust van je eigen gevoelens dat het oproept voordat je reageert",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Door kalm te blijven",
+                "response": {
+                    "how_do_you_stay_calm": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Door pas na een tijdje, nadat de ander zijn volledige verhaal heeft gedaan, te reageren",
+                "response": {
+                    "how_do_you_stay_calm": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_make_peace": {
+        "title": "Hoe kan ik vrede brengen?",
+        "choice": [
+            {
+                "answer": "Luister beter naar het lijden van je vijand",
+                "response": {
+                    "how_can_you_listen_more_deeply": 100
+                }
+            },
+            {
+                "answer": "Door eerst de angst voor je vijand te verminderen en dan die van je vijand voor jou",
+                "response": {
+                    "how_can_i_reduce_fear": 100,
+                    "how_do_you_deal_with_anger": 100
+                }
+            },
+            {
+                "answer": "Door toe te geven dat jouw onhandigheid om de problemen op te lossen heeft bijgedragen aan het lijden van je vijand",
+                "response": {
+                    "why_is_it_wise_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Door bijeenkomsten te organiseren met je vijanden waarin jij een toonbeeld bent van een vredelievende houding",
+                "response": {
+                    "how_can_you_make_peace": 100
+                }
+            },
+            {
+                "answer": "Door te kijken wat je met elkaar gemeen hebt en die aspecten te vergroten",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_be_sure_about_something": {
+        "title": "Hoe kun je zeker over iets zijn?",
+        "choice": [
+            {
+                "answer": "Niet echt want het is altijd een hersenspinsel van je brein",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100,
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Als het met wetenschappelijk onderzoek is bewezen",
+                "response": {
+                    "what_is_prove": 100,
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Als je het zelf hebt ervaren",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100,
+                    "what_is_the_truth": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_improve_how_you_feel": {
+        "title": "Hoe kun je je beter voelen?",
+        "choice": [
+            {
+                "answer": "Door kalm te worden",
+                "response": {
+                    "how_do_you_stay_calm": 100
+                }
+            },
+            {
+                "answer": "Door het comfortabel te hebben",
+                "response": {
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_makes_you_unhappy": 100,
+                    "why_can_i_sometimes_sleep_poorly_at_night": 100
+                }
+            },
+            {
+                "answer": "Door lekker te eten",
+                "response": {
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Door de aanwezigheid van andere mensen",
+                "response": {
+                    "how_to_stop_looking_for_other_peoples_approval": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "how_can_you_understand_why_the_situation_is_as_it_is": {
+        "title": "Hoe kun je begrijpen dat de situatie is zoals ie is?",
+        "choice": [
+            {
+                "answer": "Door beter naar de ander en jezelf te luisteren",
+                "response": {
+                    "how_can_you_listen_more_deeply": 100
+                }
+            },
+            {
+                "answer": "Door te accepteren dat je sommige situaties moeilijk zal kunnen begrijpen",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_learn_effective": {
+        "title": "Hoe leer je effectief?",
+        "choice": [
+            {
+                "answer": "Als je duidelijk weet wat je wilt leren!",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            },
+            {
+                "answer": "Als je de goede dingen leert!",
+                "response": {
+                    "what_is_good": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_learn_efficient": {
+        "title": "Hoe leer je efficiënt?",
+        "choice": [
+            {
+                "answer": "Als je slim leert!",
+                "response": {
+                    "what_is_the_benefit_of_smart_learning": 100
+                }
+            },
+            {
+                "answer": "Als op de goede manier leert!",
+                "response": {
+                    "what_is_good": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_know_how_plausible_something_is": {
+        "title": "Hoe weet je hoe waarschijnlijk iets is?",
+        "choice": [
+            {
+                "answer": "Dat kun je niet weten!",
+                "response": {
+                    "what_do_you_know_for_sure": 100,
+                    "what_is_knowing": 100
+                }
+            },
+            {
+                "answer": "Hoe vaak heb je ervaren of gehoord dat het waar is!",
+                "response": {
+                    "what_is_the_truth": 100,
+                    "how_to_discover_your_personal_truth": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_know_your_life_is_not_a_dream": {
+        "title": "Hoe weet je dat je geen leven geen droom is?",
+        "choice": [
+            {
+                "answer": "Dat kun je niet weten!",
+                "response": {
+                    "what_do_you_know_for_sure": 100,
+                    "what_is_knowing": 100
+                }
+            },
+            {
+                "answer": "Hoe vaak heb je ervaren of gehoord dat dit waar is!",
+                "response": {
+                    "what_is_the_truth": 100,
+                    "how_to_discover_your_personal_truth": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_become_happy": {
+        "title": "Hoe kun je gelukkig worden?",
+        "choice": [
+            {
+                "answer": "Geluk is nooit perfect, je kunt wel gelukkiger worden",
+                "response": {
+                    "what_is_happiness": 100,
+                    "what_makes_you_unhappy": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            },
+            {
+                "answer": "Door je leefstijl aan te passen",
+                "response": {
+                    "how_can_you_change_your_lifestyle_to_become_more_happy": 100,
+                    "what_makes_you_unhappy": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            },
+            {
+                "answer": "Door anderen te helpen",
+                "response": {
+                    "how_can_you_help_other_people": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_deal_with_anger": {
+        "title": "Hoe ga je om met woede?",
+        "choice": [
+            {
+                "answer": "Door de woede te onderdrukken",
+                "response": {
+                    "what_is_the_best_way_to_face_your_feelings": 100,
+                    "how_do_you_stay_calm": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Door je boosheid te ventileren",
+                "response": {
+                    "what_is_the_best_way_to_face_your_feelings": 100,
+                    "why_is_it_wise_to_be_kind": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Door deze om te zetten in begrip voor de ander of de situatie",
+                "response": {
+                    "what_is_the_best_way_to_face_your_feelings": 100,
+                    "how_can_you_listen_more_deeply": 100,
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_deal_with_sadness": {
+        "title": "Hoe ga je om met verdriet?",
+        "choice": [
+            {
+                "answer": "Door te onderzoeken waar het vandaan komt",
+                "response": {
+                    "what_is_knowing": 100
+                }
+            },
+            {
+                "answer": "Door de situatie te begrijpen",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            },
+            {
+                "answer": "Door troost te zoeken bij een ander",
+                "response": {
+                    "why_do_people_suffer": 100
+                }
+            },
+            {
+                "answer": "Door kalm te blijven en het verdriet met een glimlach te omarmen",
+                "response": {
+                    "how_do_you_stay_calm": 100
+                }
+            },
+            {
+                "answer": "Laat het je prikkelen om na te denken over je leven en aan te zetten die te verbeteren",
+                "response": {
+                    "what_is_life": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_stop_people_from_using_you": {
+        "title": "Hoe voorkom je dat mensen je gebruiken?",
+        "choice": [
+            {
+                "answer": "Vertrouw meer op de mogelijkheden van anderen",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Leer om te gaan met ruzie of meningsverschillen",
+                "response": {
+                    "how_can_you_make_peace": 100
+                }
+            },
+            {
+                "answer": "Door minder afhankelijk te worden van wat anderen van je denken",
+                "response": {
+                    "how_to_stop_looking_for_other_peoples_approval": 100
+                }
+            },
+            {
+                "answer": "Door liefdevoller met jezelf om te gaan",
+                "response": {
+                    "what_is_love": 100
+                }
+            }
+        ]
+    },
+    "how_do_you_stay_calm": {
+        "title": "Hoe blijf je kalm?",
+        "choice": [
+            {
+                "answer": "Door rustig te ademenen",
+                "response": {
+                    "why_breathing_deeply_helps_you_calm_down": 100
+                }
+            },
+            {
+                "answer": "Door de situatie te accepteren",
+                "response": {
+                    "how_to_accept_things_as_there_are": 100
+                }
+            },
+            {
+                "answer": "Door muziek",
+                "response": {
+                    "how_does_music_influences_your_feelingss": 100
+                }
+            },
+            {
+                "answer": "Door naar water te kijken of te luisteren",
+                "response": {
+                    "why_does_being_in_nature_makes_us_happy": 100
+                }
+            },
+            {
+                "answer": "Door met dieren om te gaan",
+                "response": {
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Door met de handen bezig te zijn",
+                "response": {
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Door de situatie te begrijpen",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            }
+        ]
+    },
+    "how_does_music_influences_your_feelingss": {
+        "title": "Hoe beinvloed muziek jouw emoties?",
+        "choice": [
+            {
+                "answer": "Door het ritme en de toon",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Door de tekst",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Omdat muziek, beweging en emotie in ons brein met elkaar zijn verbonden",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in": {
+        "title": "Hoe vrij bent je als je geluk afhangt van de situatie waar je toevallig in zit?",
+        "choice": [
+            {
+                "answer": "Dat ligt eraan of je ermee om komt gaan",
+                "response": {
+                    "how_can_i_trust_myself": 100,
+                    "what_makes_you_unhappy": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            },
+            {
+                "answer": "Wel redelijk vrij",
+                "response": {
+                    "what_is_freedom": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Een beetje vrij",
+                "response": {
+                    "what_is_freedom": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Niet vrij",
+                "response": {
+                    "what_is_freedom": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "how_free_are_you_if_your_happiness_depends_on_your_own_mental_state": {
+        "title": "Hoe vrij ben je als je geluk afhangt van de stemming die je toevallig hebt?",
+        "choice": [
+            {
+                "answer": "Dat ligt eraan of je ermee om komt gaan",
+                "response": {
+                    "how_can_i_trust_myself": 100,
+                    "what_makes_you_unhappy": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            },
+            {
+                "answer": "Wel redelijk vrij",
+                "response": {
+                    "what_is_freedom": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Een beetje vrij",
+                "response": {
+                    "what_is_freedom": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Niet vrij",
+                "response": {
+                    "what_is_freedom": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "how_to_accept_things_as_there_are": {
+        "title": "Hoe kun je dingen accepteren zoals ze zijn?",
+        "choice": [
+            {
+                "answer": "Door de situatie te begrijpen",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            },
+            {
+                "answer": "Geloof erin dat, hoewel je soms niet begrijpt hoe, het toch goed voor is",
+                "response": {
+                    "what_is_faith": 100,
+                    "what_is_good": 100,
+                    "what_is_life": 100
+                }
+            }
+        ]
+    },
+    "how_to_be_humble": {
+        "title": "Hoe kun je bescheiden zijn?",
+        "choice": [
+            {
+                "answer": "Door vrede boven gelijk hebben te stellen",
+                "response": {
+                    "how_can_you_make_peace": 100
+                }
+            },
+            {
+                "answer": "Door rond te lopen en zeggen dat je bescheiden bent",
+                "response": {
+                    "why_should_you_showoff_your_good_deeds": 100
+                }
+            },
+            {
+                "answer": "Door niet teveel te praten, maar meer te luisteren",
+                "response": {
+                    "how_can_you_listen_more_deeply": 100
+                }
+            }
+        ]
+    },
+    "how_to_discover_your_personal_truth": {
+        "title": "Hoe kun je jouw persoonlijk waarheid ontdekken?",
+        "choice": [
+            {
+                "answer": "Door te onderzoeken wat je het meest waardevol vindt",
+                "response": {
+                    "how_do_you_become_happy": 100
+                }
+            },
+            {
+                "answer": "Door kalm te worden en te ervaren wat er binnen jou afspeelt",
+                "response": {
+                    "how_do_you_stay_calm": 100
+                }
+            }
+        ]
+    },
+    "how_to_handle_your_brain": {
+        "title": "Hoe kun je het beste omgaan met je brein?",
+        "choice": [
+            {
+                "answer": "Zorgen dat het brein kalm is",
+                "response": {
+                    "how_do_you_stay_calm": 100
+                }
+            },
+            {
+                "answer": "Ontdekken welke gedachten, gevoelens en reacties je gelukkig maken",
+                "response": {
+                    "how_do_you_become_happy": 100,
+                    "what_makes_you_unhappy": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Grondig gedachten en gevoelens te onderzoeken voordat je iets doet",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_to_discover_your_personal_truth": 100
+                }
+            }
+        ]
+    },
+    "how_to_improve_your_motivation": {
+        "title": "Hoe kun je jouw motivatie vergroten?",
+        "choice": [
+            {
+                "answer": "Door je hart te volgen",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100,
+                    "what_keeps_you_from_doing_now_what_you_wish_most": 100
+                }
+            },
+            {
+                "answer": "Werk met gelijkgezinden samen",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Door het gezellig te hebben",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Door je kans op succes te vergroten",
+                "response": {
+                    "what_would_you_do_at_this_moment_if_you_had_just_one_day_to_live": 100
+                }
+            }
+        ]
+    },
+    "how_to_reach_a_consensus": {
+        "title": "Hoe kun je het met elkaar eens worden?",
+        "choice": [
+            {
+                "answer": "Door het proces van besluitvorming middels consensus te begrijpen",
+                "response": {
+                    "what_are_the_benefits_of_reaching_consensus": 100,
+                    "how_do_i_know_if_i_made_the_right_decision": 100
+                }
+            },
+            {
+                "answer": "Door te werken aan een oplossing die voor iedereen goed is",
+                "response": {
+                    "what_is_good": 100
+                }
+            }
+        ]
+    },
+    "how_to_stop_looking_for_other_peoples_approval": {
+        "title": "Hoe kun je stoppen met het zoeken naar goedkeuring door anderen?",
+        "choice": [
+            {
+                "answer": "Zorgen dat je situaties opzoekt waarin andere mensen je niet beoordelen",
+                "response": {
+                    "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Door te begrijpen dat wat voor de een mooi is, voor de ander niet mooi hoeft te zijn",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            },
+            {
+                "answer": "Door diepgaand contact en rotsvast te blijven houden aan jouw passie en overtuigingen",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            },
+            {
+                "answer": "Door te beseffen dat jij er net zo goed mag zijn - precies zoals je bent - als ieder ander",
+                "response": {
+                    "how_can_i_trust_myself": 100
+                }
+            },
+            {
+                "answer": "Door diep en eerlijk bij jezelf te onderzoeken of wat je doet oplevert wat jij wenst",
+                "response": {
+                    "why_is_it_wise_to_be_as_honest_as_possible": 100
+                }
+            }
+        ]
+    },
+    "on_which_topic_may_i_ask_you_a_question": {
+        "title": "Over welk onderwerp mag ik jou een vraag stellen?",
+        "choice": [
+            {
+                "answer": "Vrijheid",
+                "response": {
+                    "how_do_you_stop_people_from_using_you": 100,
+                    "what_would_you_do_at_this_moment_if_you_had_just_one_day_to_live": 100,
+                    "how_to_stop_looking_for_other_peoples_approval": 100
+                }
+            },
+            {
+                "answer": "Geluk",
+                "response": {
+                    "what_is_happiness": 100,
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Wijsheid",
+                "response": {
+                    "what_is_the_truth": 100,
+                    "what_is_wisdom": 100,
+                    "why_is_it_wise_to_be_humble": 100,
+                    "why_is_it_wise_to_be_kind": 100
+                }
+            },
+            {
+                "answer": "Vrede",
+                "response": {
+                    "how_can_you_make_peace": 100,
+                    "what_to_do_if_someone_makes_fun_of_you_in_front_of_others": 100,
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Zijn",
+                "response": {
+                    "what_is_life": 100,
+                    "what_is_to_be": 100,
+                    "what_is_not_to_be": 100,
+                    "how_do_you_know_your_life_is_not_a_dream": 100,
+                    "how_can_i_trust_myself": 100
+                }
+            },
+            {
+                "answer": "Lijden",
+                "response": {
+                    "why_do_people_suffer": 100,
+                    "what_is_to_be": 100,
+                    "what_is_not_to_be": 100,
+                    "how_can_we_transform_frustration_into_fulfillment": 100
+                }
+            },
+            {
+                "answer": "Gevoelens",
+                "response": {
+                    "how_do_you_deal_with_sadness": 100,
+                    "who_do_i_sometime_cry_without_reason": 100,
+                    "how_can_i_deal_with_my_fear_for_death": 100
+                }
+            }
+        ]
+    },
+    "what_are_feelings": {
+        "title": "Wat zijn gevoelens?",
+        "choice": [
+            {
+                "answer": "Iets om je te helpen wat wel of niet goed is",
+                "response": {
+                    "what_is_good": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Intrepraties van het brein op instinctieve lichamelijk reacties",
+                "response": {
+                    "what_is_instinct": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "what_connects_us_as_human_beings": {
+        "title": "Wat verbindt ons als mens?",
+        "choice": [
+            {
+                "answer": "Gelukkig willen zijn",
+                "response": {
+                    "what_is_happiness": 100,
+                    "how_do_you_become_happy": 100,
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Het meeste ingewikkelde brein dat men in de natuur is tegen gekomen",
+                "response": {
+                    "how_to_handle_your_brain": 100
+                }
+            }
+        ]
+    },
+    "what_do_you_need_to_achieve_your_goals": {
+        "title": "Wat heb je nodig om je doelen te bereiken?",
+        "choice": [
+            {
+                "answer": "Hetzelfde als bewustzijn",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            },
+            {
+                "answer": "Hetzelfde als geweten",
+                "response": {
+                    "what_is_morality": 100
+                }
+            }
+        ]
+    },
+    "what_is_awareness": {
+        "title": "Wat is waakzaamheid?",
+        "choice": [
+            {
+                "answer": "Hetzelfde als bewustzijn",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            },
+            {
+                "answer": "Hetzelfde als geweten",
+                "response": {
+                    "what_is_morality": 100
+                }
+            }
+        ]
+    },
+    "what_is_conscience": {
+        "title": "Wat is bewustzijn?",
+        "choice": [
+            {
+                "answer": "Hetzelfde als geweten",
+                "response": {
+                    "what_is_morality": 100
+                }
+            },
+            {
+                "answer": "Hetzelfde als waakzaamheid",
+                "response": {
+                    "what_is_awareness": 100
+                }
+            }
+        ]
+    },
+    "what_is_danger": {
+        "title": "Wat is gevaar?",
+        "choice": [
+            {
+                "answer": "De kans dat jij of iemand anders dood gaat",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100,
+                    "how_can_i_deal_with_my_fear_for_death": 100
+                }
+            },
+            {
+                "answer": "De kans dat iets slechts gaat gebeuren",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100,
+                    "what_is_good": 100
+                }
+            }
+        ]
+    },
+    "what_is_doctrine": {
+        "title": "Wat is een doctrine?",
+        "choice": [
+            {
+                "answer": "Een verzameling stellingen die niet ter discussie staan",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100
+                }
+            },
+            {
+                "answer": "Een rotsvast beeld over de ideale samenleving",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            }
+        ]
+    },
+    "what_is_faith": {
+        "title": "Wat is geloof?",
+        "choice": [
+            {
+                "answer": "Volledig in iets of iemand vertrouwen",
+                "response": {
+                    "how_can_i_trust_myself": 100
+                }
+            },
+            {
+                "answer": "Religieuze of spirituele overtuigingen",
+                "response": {
+                    "what_is_religion": 100
+                }
+            }
+        ]
+    },
+    "what_is_fear": {
+        "title": "Wat is angst?",
+        "choice": [
+            {
+                "answer": "Een gevoel",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Instinct dat je probeert te beschermen voor gevaarlijke situaties",
+                "response": {
+                    "what_is_instinct": 100,
+                    "what_is_danger": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "what_is_freedom": {
+        "title": "Wat is vrijheid?",
+        "choice": [
+            {
+                "answer": "Een gevoel",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Dat je niet door de buitenwereld wordt belemmerd in je doen, spreken of denken",
+                "response": {
+                    "what_is_outside_you": 100
+                }
+            }
+        ]
+    },
+    "what_is_good": {
+        "title": "Wat is goed?",
+        "choice": [
+            {
+                "answer": "Iets waar je een positief gevoel bij krijgt",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Iets waar je een ander en jezelf mee helpt",
+                "response": {
+                    "how_can_you_help_other_people": 100
+                }
+            }
+        ]
+    },
+    "what_is_happiness": {
+        "title": "Wat is geluk?",
+        "choice": [
+            {
+                "answer": "Voldoening in het leven scheppen",
+                "response": {
+                    "what_is_life": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Een goed leven hebben",
+                "response": {
+                    "what_is_good": 100,
+                    "what_is_life": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Gemoedsrust",
+                "response": {
+                    "how_do_you_stay_calm": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Acceptatie en omarming van alles wat je voelt, ervaart en leert",
+                "response": {
+                    "how_to_accept_things_as_there_are": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Een prettig leven hebben",
+                "response": {
+                    "what_is_life": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "what_is_instinct": {
+        "title": "Wat is instinct?",
+        "choice": [
+            {
+                "answer": "Een aangeboren automatische reactie op iets van buiten",
+                "response": {
+                    "what_is_outside_you": 100
+                }
+            },
+            {
+                "answer": "Zelfbehoud, voortplantingsdrift of sociale druk",
+                "response": {
+                    "how_to_stop_looking_for_other_peoples_approval": 100
+                }
+            }
+        ]
+    },
+    "what_is_knowing": {
+        "title": "Wat is weten?",
+        "choice": [
+            {
+                "answer": "Wanneer je iets kunt aantonen",
+                "response": {
+                    "what_is_prove": 100
+                }
+            },
+            {
+                "answer": "De waarheid",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Er is geen weten, alles is een aanname",
+                "response": {
+                    "what_is_faith": 100
+                }
+            }
+        ]
+    },
+    "what_is_life": {
+        "title": "Wat is leven?",
+        "choice": [
+            {
+                "answer": "Het omgekeerde van de dood",
+                "response": {
+                    "how_can_i_deal_with_my_fear_for_death": 100
+                }
+            },
+            {
+                "answer": "Het voorbereiden op de dood",
+                "response": {
+                    "how_can_i_deal_with_my_fear_for_death": 100
+                }
+            },
+            {
+                "answer": "Zijn",
+                "response": {
+                    "what_is_to_be": 100,
+                    "what_is_not_to_be": 100
+                }
+            }
+        ]
+    },
+    "what_is_love": {
+        "title": "Wat is liefde?",
+        "choice": [
+            {
+                "answer": "Andere mensen helpen",
+                "response": {
+                    "how_can_you_help_other_people": 100
+                }
+            },
+            {
+                "answer": "Aardig willen zijn tegen anderen",
+                "response": {
+                    "why_is_it_wise_to_be_kind": 100,
+                    "why_do_people_hurt_each_other": 100
+                }
+            }
+        ]
+    },
+    "what_is_mythology": {
+        "title": "Wat is mythologie?",
+        "choice": [
+            {
+                "answer": "Verhalen en ideeën over levensvragen",
+                "response": {
+                    "on_which_topic_may_i_ask_you_a_question": 100,
+                    "what_is_life": 100
+                }
+            },
+            {
+                "answer": "De waarheid voor een groep mensen",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            }
+        ]
+    },
+    "what_is_prove": {
+        "title": "Wat is bewijs?",
+        "choice": [
+            {
+                "answer": "Als er iets is gevonden waarvan je zeker weet dat waar is",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "De waarheid aantonen door metingen en argumenten",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            }
+        ]
+    },
+    "what_is_religion": {
+        "title": "Wat is religie?",
+        "choice": [
+            {
+                "answer": "Gezamenlijke rituelen ontstaan uit traditie, mythologie, doctrines en spiritualiteit",
+                "response": {
+                    "what_connects_us_as_human_beings": 100,
+                    "what_is_spirituality": 100,
+                    "what_is_tradition": 100,
+                    "what_is_doctrine": 100,
+                    "what_is_mythology": 100
+                }
+            },
+            {
+                "answer": "Iemands persoonlijke waarheid die zijn leven richting geeft",
+                "response": {
+                    "what_is_the_truth": 100,
+                    "what_is_life": 100,
+                    "how_to_discover_your_personal_truth": 100
+                }
+            }
+        ]
+    },
+    "what_is_spirituality": {
+        "title": "Wat is spiritualiteit?",
+        "choice": [
+            {
+                "answer": "Bewustzijn",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            },
+            {
+                "answer": "Religie",
+                "response": {
+                    "what_is_religion": 100
+                }
+            },
+            {
+                "answer": "Geloof in de ziel",
+                "response": {
+                    "what_is_the_soul": 100,
+                    "what_is_faith": 100
+                }
+            }
+        ]
+    },
+    "what_is_tradition": {
+        "title": "Wat is traditie?",
+        "choice": [
+            {
+                "answer": "Een gebruik of gewoonte die van de ene generatie op de andere wordt doorgegeven",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Een manier om mensen met elkaar te verbinden",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            }
+        ]
+    },
+    "what_do_you_know_for_sure": {
+        "title": "Wat weet je zeker?",
+        "choice": [
+            {
+                "answer": "Je weet zeker dat je niets weet",
+                "response": {
+                    "what_is_knowing": 100
+                }
+            },
+            {
+                "answer": "De waarheid",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            }
+        ]
+    },
+    "what_is_morality": {
+        "title": "Wat is geweten?",
+        "choice": [
+            {
+                "answer": "Hetzelfde als bewustzijn",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            },
+            {
+                "answer": "Aanvoelen wat goed en fout is",
+                "response": {
+                    "what_is_good": 100
+                }
+            },
+            {
+                "answer": "Hetzelfde als waakzaamheid",
+                "response": {
+                    "what_is_awareness": 100
+                }
+            }
+        ]
+    },
+    "what_is_outside_you": {
+        "title": "Wat is buiten jouzelf?",
+        "choice": [
+            {
+                "answer": "Buiten mijn lichaam",
+                "response": {
+                    "would_you_loose_your_essence_if_we_cut_off_your_arm": 100,
+                    "how_much_more_are_you_yourself_than_when_you_were_still_young": 100
+                }
+            },
+            {
+                "answer": "Mijn essentie is niet fysiek, onbegrensd in ruimte of tijd, dus er is geen jou of mij",
+                "response": {
+                    "what_is_not_to_be": 100,
+                    "what_is_to_be": 100
+                }
+            }
+        ]
+    },
+    "what_is_reflecting": {
+        "title": "Wat is reflecteren?",
+        "choice": [
+            {
+                "answer": "Wat je nu aan het doen bent",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            },
+            {
+                "answer": "De diepste manier van denken",
+                "response": {
+                    "what_are_feelings": 100
+                }
+            },
+            {
+                "answer": "Terugblikken op iets wat gebeurt is",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            }
+        ]
+    },
+    "what_is_the_benefit_of_smart_learning": {
+        "title": "Wat is het voordeel van slim leren?",
+        "choice": [
+            {
+                "answer": "Plezier",
+                "response": {
+                    "when_is_learning_fun": 100
+                }
+            },
+            {
+                "answer": "Reflectie",
+                "response": {
+                    "what_is_reflecting": 100
+                }
+            },
+            {
+                "answer": "Motivatie",
+                "response": {
+                    "how_to_improve_your_motivation": 100
+                }
+            },
+            {
+                "answer": "Geluk",
+                "response": {
+                    "what_is_happiness": 100,
+                    "how_do_you_become_happy": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Passie",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            },
+            {
+                "answer": "Creativiteit",
+                "response": {
+                    "what_is_creativity": 100
+                }
+            },
+            {
+                "answer": "Succes",
+                "response": {
+                    "what_keeps_you_from_doing_now_what_you_wish_most": 100,
+                    "what_would_you_like_to_achieve_in_the_future": 100
+                }
+            }
+        ]
+    },
+    "what_is_the_origin_of_happiness": {
+        "title": "Waar komt geluk vandaan?",
+        "choice": [
+            {
+                "answer": "Van geld",
+                "response": {
+                    "what_are_feelings": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Dat is per persoon verschillend",
+                "response": {
+                    "what_connects_us_as_human_beings": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Geluk is niet iets tastbaars, het is alles wat er is omarmen en accepteren, zonder oordeel",
+                "response": {
+                    "how_to_accept_things_as_there_are": 100,
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            },
+            {
+                "answer": "Geluk hangt af van de situatie waar ik in zit",
+                "response": {
+                    "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in": 100,
+                    "what_is_outside_you": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Geluk ontstaat vanuit binnen mijzelf",
+                "response": {
+                    "how_free_are_you_if_your_happiness_depends_on_your_own_mental_state": 100,
+                    "what_is_within_you": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Vanuit het helpen van anderen",
+                "response": {
+                    "how_can_you_help_other_people": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Dat hangt af van wat je onder geluk verstaat",
+                "response": {
+                    "what_is_happiness": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "what_are_the_benefits_of_reaching_consensus": {
+        "title": "Wat zijn de voordelen van het bereiken van consensus?",
+        "choice": [
+            {
+                "answer": "Er wordt geen beslissing genomen tegen de wil van iemand",
+                "response": {
+                    "why_is_it_wise_to_be_kind": 100,
+                    "how_do_i_know_if_i_made_the_right_decision": 100
+                }
+            },
+            {
+                "answer": "Door discussie kweek je onderling begrip en overbrug je verschillen",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            }
+        ]
+    },
+    "what_is_creativity": {
+        "title": "Wat is creativiteit?",
+        "choice": [
+            {
+                "answer": "Je vermogen om iets nieuws te scheppen",
+                "response": {
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Gebruik van fantasie om de wereld op je eigen unieke manier te bekijken",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            }
+        ]
+    },
+    "what_is_to_be": {
+        "title": "Wat versta je onder zijn?",
+        "choice": [
+            {
+                "answer": "Je denken",
+                "response": {
+                    "what_are_feelings": 100
+                }
+            },
+            {
+                "answer": "Je lichaam",
+                "response": {
+                    "what_is_life": 100,
+                    "what_is_outside_you": 100
+                }
+            }
+        ]
+    },
+    "what_is_not_to_be": {
+        "title": "Wat versta je onder niet-zijn?",
+        "choice": [
+            {
+                "answer": "Het omgekeerde van zijn",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            },
+            {
+                "answer": "Je lichaam",
+                "response": {
+                    "what_is_life": 100,
+                    "what_is_outside_you": 100
+                }
+            }
+        ]
+    },
+    "what_is_the_soul": {
+        "title": "Wat is de ziel?",
+        "choice": [
+            {
+                "answer": "Het zijn",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            },
+            {
+                "answer": "Hetzelfde als bewustzijn",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            },
+            {
+                "answer": "Hetzelfde als geweten",
+                "response": {
+                    "what_is_morality": 100
+                }
+            }
+        ]
+    },
+    "what_is_the_truth": {
+        "title": "Wat is de waarheid?",
+        "choice": [
+            {
+                "answer": "Iets waar we de meeste mensen het over eens zijn",
+                "response": {
+                    "how_to_reach_a_consensus": 100
+                }
+            },
+            {
+                "answer": "Iedereen heeft zijn eigen waarheid",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            },
+            {
+                "answer": "Absolute zekerheid",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100
+                }
+            },
+            {
+                "answer": "Iets wat je hebt waargenomen",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100
+                }
+            },
+            {
+                "answer": "Het omgekeerde van een leugen",
+                "response": {
+                    "why_do_people_lie": 100
+                }
+            },
+            {
+                "answer": "Dat wat gezien onze beste kennis erg waarschijnlijk is",
+                "response": {
+                    "how_do_you_know_how_plausible_something_is": 100
+                }
+            }
+        ]
+    },
+    "what_is_wisdom": {
+        "title": "Wat is wijsheid?",
+        "choice": [
+            {
+                "answer": "Intelligentie",
+                "response": {
+                    "what_is_knowing": 100
+                }
+            },
+            {
+                "answer": "De waarheid kennen",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Bewustzijn zijn van jezelf n je omgeving",
+                "response": {
+                    "what_is_conscience": 100
+                }
+            }
+        ]
+    },
+    "what_is_within_you": {
+        "title": "Wat is binnen jijzelf?",
+        "choice": [
+            {
+                "answer": "Het omgekeerde van buiten jezelf",
+                "response": {
+                    "what_is_outside_you": 100
+                }
+            },
+            {
+                "answer": "Heleboel organen",
+                "response": {
+                    "what_is_outside_you": 100
+                }
+            },
+            {
+                "answer": "De ziel",
+                "response": {
+                    "what_is_to_be": 100,
+                    "what_is_the_soul": 100
+                }
+            }
+        ]
+    },
+    "what_keeps_you_from_doing_now_what_you_wish_most": {
+        "title": "Wat weerhoudt je ervan nu te doen wat je het liefst zou doen?",
+        "choice": [
+            {
+                "answer": "Angst",
+                "response": {
+                    "what_is_fear": 100
+                }
+            },
+            {
+                "answer": "Ik weet niet wat ik het liefst zou doen",
+                "response": {
+                    "how_to_discover_your_personal_truth": 100
+                }
+            }
+        ]
+    },
+    "what_makes_you_unhappy": {
+        "title": "Wat maakt je ongelukkig?",
+        "choice": [
+            {
+                "answer": "Angst",
+                "response": {
+                    "what_is_fear": 100
+                }
+            },
+            {
+                "answer": "Een verkeerde leefstijl",
+                "response": {
+                    "how_can_you_change_your_lifestyle_to_become_more_happy": 100,
+                    "why_do_people_hurt_each_other": 100
+                }
+            },
+            {
+                "answer": "Alleen zijn",
+                "response": {
+                    "how_to_stop_looking_for_other_peoples_approval": 100
+                }
+            },
+            {
+                "answer": "Als er geen comfort is",
+                "response": {
+                    "what_is_the_origin_of_happiness": 100
+                }
+            }
+        ]
+    },
+    "what_prevents_you_from_being_happy": {
+        "title": "Wat weerhoudt je ervan gelukkig te zijn?",
+        "choice": [
+            {
+                "answer": "Je leefstijl",
+                "response": {
+                    "how_can_you_change_your_lifestyle_to_become_more_happy": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Niet weten hoe je gelukkig kunt zijn",
+                "response": {
+                    "what_is_knowing": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Angst voor verandering",
+                "response": {
+                    "what_is_fear": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "what_to_do_if_someone_makes_fun_of_you_in_front_of_others": {
+        "title": "Wat moet je doen als iemand je voor gek zet in het bijzijn van anderen?",
+        "choice": [
+            {
+                "answer": "Meelachen!",
+                "response": {
+                    "how_do_you_stay_calm": 100
+                }
+            },
+            {
+                "answer": "Beseffen dat de ander misschien nog moet leren wat grappig is!",
+                "response": {
+                    "how_can_you_help_other_people": 100
+                }
+            }
+        ]
+    },
+    "what_would_you_do_at_this_moment_if_you_had_just_one_day_to_live": {
+        "title": "Wat zou je op dit moment doen als je nog maar een dag had te leven?",
+        "choice": [
+            {
+                "answer": "Hetzelfde",
+                "response": {
+                    "what_is_life": 100
+                }
+            },
+            {
+                "answer": "Iets anders",
+                "response": {
+                    "what_keeps_you_from_doing_now_what_you_wish_most": 100
+                }
+            }
+        ]
+    },
+    "what_would_you_like_to_achieve_in_the_future": {
+        "title": "Wat wil jij in de toekomst bereiken?",
+        "choice": [
+            {
+                "answer": "Gelukkiger worden",
+                "response": {
+                    "what_connects_us_as_human_beings": 100,
+                    "what_do_you_need_to_achieve_your_goals": 100
+                }
+            },
+            {
+                "answer": "Succes in werk op school",
+                "response": {
+                    "why_do_you_want_to_achieve_success": 100
+                }
+            }
+        ]
+    },
+    "why_do_people_hurt_each_other": {
+        "title": "Waarom doen mensen elkaar pijn?",
+        "choice": [
+            {
+                "answer": "Omdat ze boos op de ander zijn",
+                "response": {
+                    "how_do_you_deal_with_anger": 100,
+                    "why_is_it_wise_to_be_kind": 100
+                }
+            },
+            {
+                "answer": "Omdat ze elkaar niet begrijpen",
+                "response": {
+                    "how_can_you_listen_more_deeply": 100,
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            },
+            {
+                "answer": "Omdat ze zelf niet goed in hun vel zitten",
+                "response": {
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_prevents_you_from_being_happy": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Om wraak te nemen",
+                "response": {
+                    "why_is_it_wise_to_be_kind": 100,
+                    "what_are_feelings": 100
+                }
+            }
+        ]
+    },
+    "why_do_you_want_to_achieve_success": {
+        "title": "Waarom wil je success?",
+        "choice": [
+            {
+                "answer": "Om gelukkiger te worden",
+                "response": {
+                    "what_is_the_origin_of_happiness": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "Succes in werk op school",
+                "response": {
+                    "why_do_you_want_to_achieve_success": 100
+                }
+            }
+        ]
+    },
+    "when_is_learning_fun": {
+        "title": "Wanneer is leren leuk?",
+        "choice": [
+            {
+                "answer": "Als je ermee leert wat je graag wilt leren!",
+                "response": {
+                    "how_do_you_learn_effective": 100
+                }
+            },
+            {
+                "answer": "Als je goede dingen leert!",
+                "response": {
+                    "how_do_you_learn_effective": 100
+                }
+            },
+            {
+                "answer": "Als je zo snel en makkelijk mogelijk leert!",
+                "response": {
+                    "how_do_you_learn_efficient": 100
+                }
+            },
+            {
+                "answer": "Als je op de goede manier leert!",
+                "response": {
+                    "how_do_you_learn_efficient": 100
+                }
+            }
+        ]
+    },
+    "why_breathing_deeply_helps_you_calm_down": {
+        "title": "Waarom helpt diep ademen je kalm te worden?",
+        "choice": [
+            {
+                "answer": "Omdat de hersenscellen nodig voor ademen zijn verbonden aan rustige emoties",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Het verschuift je aandacht van de zorgen in je hoofd naar je ademhaling",
+                "response": {
+                    "what_is_awareness": 100,
+                    "why_can_i_sometimes_sleep_poorly_at_night": 100
+                }
+            },
+            {
+                "answer": "Omdat bij diep ademen je lichaam hetzelfde voelt alsof je relaxt bent",
+                "response": {
+                    "how_do_you_become_happy": 100
+                }
+            }
+        ]
+    },
+    "why_does_being_in_nature_makes_us_happy": {
+        "title": "Waarom worden we gelukkiger als we in de natuur zijn?",
+        "choice": [
+            {
+                "answer": "Onze instincten herkennen iets als mooi als de omgeving grondstofrijk is",
+                "response": {
+                    "what_is_instinct": 100,
+                    "how_can_you_improve_how_you_feel": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "We zijn dan van nature bewuster van onze omgeving",
+                "response": {
+                    "what_is_awareness": 100,
+                    "how_can_you_improve_how_you_feel": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            },
+            {
+                "answer": "De geluiden klinken ons als muziek in de oren",
+                "response": {
+                    "how_does_music_influences_your_feelingss": 100,
+                    "how_can_you_improve_how_you_feel": 100,
+                    "what_makes_you_unhappy": 100
+                }
+            }
+        ]
+    },
+    "how_much_more_are_you_yourself_than_when_you_were_still_young": {
+        "title": "Hoeveel meer ben je jezelf dan toen je nog klein was?",
+        "choice": [
+            {
+                "answer": "Veel meer!",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            },
+            {
+                "answer": "Een beetje meer!",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            },
+            {
+                "answer": "Gelijk!",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            },
+            {
+                "answer": "Je bent minder jezelf geworden!",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            }
+        ]
+    },
+    "who_am_i": {
+        "title": "Wie ben ik?",
+        "choice": []
+    },
+    "who_do_i_sometime_cry_without_reason": {
+        "title": "Waarom huil ik soms zonder aanleiding?",
+        "choice": [
+            {
+                "answer": "Er is wel een reden maar je hebt hem nog niet door",
+                "response": {
+                    "how_can_you_be_sure_about_something": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "De pijn van een ander is op jouw overgebracht",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            }
+        ]
+    },
+    "why_can_i_sometimes_sleep_poorly_at_night": {
+        "title": "Waarom kan ik soms slecht slapen?",
+        "choice": [
+            {
+                "answer": "Omdat ik teveel nadenk over dingen",
+                "response": {
+                    "how_to_handle_your_brain": 100
+                }
+            },
+            {
+                "answer": "Omdat het te druk is geweest overdag",
+                "response": {
+                    "how_do_you_stay_calm": 100
+                }
+            },
+            {
+                "answer": "Omdat ik niet het gevoel heb dat het tijd is om te slapen",
+                "response": {
+                    "what_are_feelings": 100
+                }
+            }
+        ]
+    },
+    "why_do_people_bully": {
+        "title": "Waarom pesten mensen?",
+        "choice": [
+            {
+                "answer": "Om zichzelf beter te voelen",
+                "response": {
+                    "what_are_feelings": 100
+                }
+            }
+        ]
+    },
+    "why_do_people_force_their_opinions_on_each_other": {
+        "title": "Waarom dringen mensen elkaar hun mening op?",
+        "choice": [
+            {
+                "answer": "Om zichzelf beter te voelen",
+                "response": {
+                    "what_are_feelings": 100
+                }
+            }
+        ]
+    },
+    "why_do_people_hurt_each_other": {
+        "title": "Waarom doen mensen elkaar kwaad?",
+        "choice": [
+            {
+                "answer": "Om zichzelf beter te voelen",
+                "response": {
+                    "what_are_feelings": 100
+                }
+            }
+        ]
+    },
+    "why_do_people_lie": {
+        "title": "Waarom liegen mensen?",
+        "choice": [
+            {
+                "answer": "Om straf of lijden te mijden",
+                "response": {
+                    "why_do_people_suffer": 100,
+                    "what_connects_us_as_human_beings": 100
+                }
+            },
+            {
+                "answer": "Omdat ze de waarheid niet kennen of zijn vergeten",
+                "response": {
+                    "what_is_the_truth": 100
+                }
+            },
+            {
+                "answer": "Om de bewondering van anderen te krijgen",
+                "response": {
+                    "how_to_stop_looking_for_other_peoples_approval": 100
+                }
+            }
+        ]
+    },
+    "why_do_people_suffer": {
+        "title": "Waarom lijden mensen?",
+        "choice": [
+            {
+                "answer": "Omdat ze de essentie van het leven niet begrijpen",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100,
+                    "what_is_life": 100
+                }
+            },
+            {
+                "answer": "Om je te prikkelen je leven steeds te verbeteren",
+                "response": {
+                    "what_is_life": 100
+                }
+            }
+        ]
+    },
+    "why_is_it_important_not_to_judge_others": {
+        "title": "Waarom is het belangrijk om niet over anderen te oordelen?",
+        "choice": [
+            {
+                "answer": "Zodat anderen niet oordelen over jou",
+                "response": {
+                    "why_is_it_wise_to_be_kind": 100
+                }
+            },
+            {
+                "answer": "Omdat je zelf ook tekortkomingen hebt",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Omdat je niet in hun schoenen staat en dus niet begrijpt waarom ze bepaalde dingen doen",
+                "response": {
+                    "how_can_you_understand_why_the_situation_is_as_it_is": 100
+                }
+            }
+        ]
+    },
+    "why_is_it_wise_to_be_as_honest_as_possible": {
+        "title": "Waarom is het wijs om zo eerlijk mogelijk te zijn?",
+        "choice": [
+            {
+                "answer": "Dan ontdek je en leer je geven om wie je echt bent",
+                "response": {
+                    "how_can_i_trust_myself": 100
+                }
+            },
+            {
+                "answer": "Dan leer je dat vallen nodig is om op te staan",
+                "response": {
+                    "what_is_the_benefit_of_smart_learning": 100
+                }
+            },
+            {
+                "answer": "Je leer jezelf te durven zijn",
+                "response": {
+                    "what_is_to_be": 100
+                }
+            }
+        ]
+    },
+    "why_is_it_wise_to_be_humble": {
+        "title": "Waarom is het wijs om bescheiden te zijn?",
+        "choice": [
+            {
+                "answer": "Je presteert beter in je werk of op school",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Je hebt een beter contact met anderen",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Je bent kalmer",
+                "response": {
+                    "how_to_be_humble": 100,
+                    "how_do_you_stay_calm": 100
+                }
+            },
+            {
+                "answer": "Je bent minder bevooroordeeld",
+                "response": {
+                    "how_to_be_humble": 100,
+                    "why_is_it_important_not_to_judge_others": 100
+                }
+            },
+            {
+                "answer": "Je bent hulpvaardiger",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Je maakt je minder druk om de dood",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Je hebt een scherper perspectief op het leven en hoe je die zou kunnen invullen",
+                "response": {
+                    "how_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Je bent gelukkiger",
+                "response": {
+                    "how_to_be_humble": 100,
+                    "what_is_happiness": 100,
+                    "what_makes_you_unhappy": 100,
+                    "what_prevents_you_from_being_happy": 100
+                }
+            }
+        ]
+    },
+    "why_is_it_wise_to_be_kind": {
+        "title": "Waarom is het wijs om aardig te zijn?",
+        "choice": [
+            {
+                "answer": "Dan voel je je beter en heb je minder stress",
+                "response": {
+                    "what_are_feelings": 100,
+                    "how_can_you_improve_how_you_feel": 100
+                }
+            },
+            {
+                "answer": "Als je liefde geeft dan ontvang je het terug",
+                "response": {
+                    "what_is_love": 100
+                }
+            },
+            {
+                "answer": "Je wordt er gezonder door en leeft langer",
+                "response": {
+                    "what_is_life": 100
+                }
+            }
+        ]
+    },
+    "why_should_you_showoff_your_good_deeds": {
+        "title": "Waarom zou je opscheppen over je goede daden?",
+        "choice": [
+            {
+                "answer": "Dat kun je juist beter niet doen",
+                "response": {
+                    "why_is_it_wise_to_be_humble": 100
+                }
+            },
+            {
+                "answer": "Zodat andere mensen jou aardiger vinden",
+                "response": {
+                    "why_is_it_wise_to_be_humble": 100,
+                    "what_to_do_if_someone_makes_fun_of_you_in_front_of_others": 100,
+                    "how_to_stop_looking_for_other_peoples_approval": 100,
+                    "why_is_it_wise_to_be_kind": 100
+                }
+            },
+            {
+                "answer": "Zodat andere mensen jouw voorbeeld gaan volgen",
+                "response": {
+                    "why_is_it_wise_to_be_humble": 100,
+                    "why_is_it_wise_to_be_kind": 100
+                }
+            }
+        ]
+    },
+    "would_you_loose_your_essence_if_we_cut_off_your_arm": {
+        "title": "Zou je een deel van je essentie verliezen als je een arm zou afhakken?",
+        "choice": [
+            {
+                "answer": "Ja!",
+                "response": {
+                    "who_am_i": 100,
+                    "what_is_outside_you": 100
+                }
+            },
+            {
+                "answer": "Nee!",
+                "response": {
+                    "who_am_i": 100,
+                    "what_is_the_origin_of_happiness": 100
+                }
+            }
+        ]
+    }
+}

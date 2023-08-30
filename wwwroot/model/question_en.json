@@ -1,0 +1,200 @@
+{
+    "how_can_i_reduce_fear":
+    {
+        "title": "How can I reduce fear?",
+        "choice":
+        [
+        ]
+    },
+    "how_can_we_transform_frustration_into_fulfillment":
+    {
+        "title": "How can we transform frustration into fulfillment?",
+        "choice":
+        [
+            {
+                "answer": "By staying calm.",
+                "response":
+                {
+                    "how_do_you_stay_calm" : 100
+                }
+            }
+        ]
+    },
+    "how_can_you_listen_more_deeply":
+    {
+        "title": "How can you listen more deeply?",
+        "choice":
+        [
+            {
+                "answer": "Be first aware of your own suffering before you react.",
+                "response":
+                {
+                }
+            }
+        ]
+    },
+    "how_can_you_make_peace":
+    {
+        "title": "How can you make peace?",
+        "choice":
+        [
+            {
+                "answer": "To listen more deeply to the suffering of the enemy.",
+                "response":
+                {
+                    "how_can_you_listen_more_deeply" : 100
+                }
+            },
+            {
+                "answer": "By first reducing the fear you have for your enemy and then the fear the enemy has for you.",
+                "response":
+                {
+                    "how_can_i_reduce_fear" : 100
+                }
+            },
+            {
+                "answer": "By admitting that your own lack of skill to handle the situation properly has added to the suffering of the enemy.",
+                "response":
+                {
+                }
+            },
+            {
+                "answer": "By organizing meetings with each other and setting the example of a peaceful attitude yourself.",
+                "response":
+                {
+                }
+            },
+            {
+                "answer": "By looking at what you have in common and increasing those aspects.",
+                "response":
+                {
+                }
+            }
+        ]
+    },
+    "how_can_you_understand_why_the_situation_is_as_it_is":
+    {
+        "title": "How can you understand why the situation is as it is?",
+        "choice":
+        [
+            {
+                "answer": "To listen more deeply to another and the voices within yourself.",
+                "response":
+                {
+                    "how_can_you_listen_more_deeply" : 100
+                }
+            }
+        ]
+    },
+    "how_do_you_stay_calm":
+    {
+        "title": "How do you stay calm?",
+        "choice":
+        [
+            {
+                "answer": "By smoothly breathing.",
+                "response":
+                {
+                }
+            },
+            {
+                "answer": "By understanding the situation.",
+                "response":
+                {
+                    "how_can_you_understand_why_the_situation_is_as_it_is" : 100
+                }
+            }
+        ]
+    },
+    "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in":
+    {
+        "title": "How free are you if your happiness depends on the situation you are in?",
+        "choice":
+        [
+        ]
+    },
+    "how_free_are_you_if_your_happiness_depends_on_your_own_mental_state":
+    {
+        "title": "How free are you if your happiness depends on your own mental state?",
+        "choice":
+        [
+        ]
+    },
+    "what_is_outside_you":
+    {
+        "title": "What is outside you?",
+        "choice":
+        [
+            {
+                "answer": "Outside my body.",
+                "response":
+                {
+                    "would_you_loose_your_essence_if_we_cut_off_your_arm" : 100,
+                    "where_you_less_you_when_you_were_still_small" : 100
+                }
+            },
+            {
+                "answer": "My essence is not physical. Non-physical means no limits in space or time. So there is no you or me.",
+                "response":
+                {
+                }
+            }
+        ]
+    },
+    "what_is_the_origin_of_happiness":
+    {
+        "title": "What is the origin of happiness?",
+        "choice":
+        [
+            {
+                "answer": "Happiness depends on the situation outside.",
+                "response":
+                {
+                    "how_free_are_you_if_your_happiness_depends_on_the_situation_you_are_in" : 100,
+                    "what_is_outside_you" : 100
+                }
+            },
+            {
+                "answer": "Happiness arises from within yourself.",
+                "response":
+                {
+                    "how_free_are_you_if_your_happiness_depends_on_your_own_mental_state" : 100,
+                    "what_is_within_you" : 100
+                }
+            }
+        ]
+    },
+    "what_is_within_you":
+    {
+        "title": "What is within you?",
+        "choice":
+        [
+        ]
+    },
+    "where_you_less_you_when_you_were_still_small":
+    {
+        "title": "Where you less you when you were still small?",
+        "choice":
+        [
+            {
+                "answer": "Yes!",
+                "response":
+                {
+                }
+            },
+            {
+                "answer": "No!",
+                "response":
+                {
+                }
+            }
+        ]
+    },
+    "would_you_loose_your_essence_if_we_cut_off_your_arm":
+    {
+        "title": "Would you loose part of your essence if you cut off your arm?",
+        "choice":
+        [
+        ]
+    }
+}

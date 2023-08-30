@@ -4,3 +4,22 @@
     ViewData["Title"] = "Resource";
 }
 <p>On this page you will be able to store, combine and relate all kinds of learning resources or learning objects.</p>
+<div id="resourceContainer">
+    <!-- Menu for different types of resources -->
+    <div id="resourceMainMenu" class="resourceMenu">
+        <!-- Items will be dynamically populated -->
+    </div>
+
+    <!-- Submenu for specific objects -->
+    <div id="resourceSubMenu" class="resourceMenu">
+        <!-- Items will be dynamically populated -->
+    </div>
+
+    <!-- Canvas to drop items -->
+    <div id="resourceCanvas">
+        <!-- Dropped items will appear here -->
+    </div>
+
+    <div id="resourceInfoPopup"></div>
+</div>
+<script src="~/js/resource.js" asp-append-version="true"></script>
