@@ -1,0 +1,7 @@
+{
+    "Instruction":
+    {
+        "title": "Instruction",
+        "content": "This API can be used by entering in this order the type, format and language of the requested item as URL path.<br/>The requested item can be found as a query using title=.<br/>Like for example <a href='https://api.hedude.com/reference/html/nl?title=Obbink_2011' target='new'>https://api.hedude.com/reference/html/nl?title=Obbink_2011</a>"
+    }
+}

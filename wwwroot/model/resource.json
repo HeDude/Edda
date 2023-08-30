@@ -1,0 +1,16 @@
+{
+  "type": [
+    "activity",
+    "chance",
+    "chill",
+    "clip",
+    "code",
+    "concept",
+    "event",
+    "help",
+    "question",
+    "reference",
+    "style",
+    "tip"
+  ]
+}
