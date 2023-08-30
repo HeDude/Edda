@@ -271,10 +271,13 @@ button {
 
 .resourceClonedItem {
     background-color: lightblue; /* Background color set to light blue */
-    color: white; /* Text color set to white */
-    border: 2px solid black;
+    color: darkblue; /* Text color set to white */
     padding: 5px; /* Padding to ensure text fits well within the border */
     position: absolute;
     z-index: 100;
 }
 
+.connectingLine {
+    color: darkblue; /* Text color set to white */
+    z-index: 99; /* Below the items but above the canvas */
+}
