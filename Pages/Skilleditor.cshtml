@@ -1,0 +1,33 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Skilleditor";
+}
+    <form class="container" action="#" method="post">
+        <div class="circle wide"></div>
+        <div class="syntax"></div>
+    <table class="skilleditor-check-table">
+        <thead>
+            <tr>
+                <th>Types</th>
+                <th>Algebra</th>
+                <th>SMART</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="types"></td>
+                <td class="algebra"></td>
+                <td class="smart"></td>
+            </tr>
+            <tr>
+                <td colspan="3" class="update_skill"></td>
+            </tr>
+        </tbody>
+    </table>
+</form>
+
+<script src="~/js/algebra.js" asp-append-version="true"></script>
+<script src="~/js/skill_syntax.js" asp-append-version="true"></script>
+<script src="~/js/skilltypes.js" asp-append-version="true"></script>
+<script src="~/js/smart.js" asp-append-version="true"></script>

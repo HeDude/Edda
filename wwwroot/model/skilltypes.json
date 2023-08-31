@@ -1,0 +1,32 @@
+{
+    "Skilltype": {
+        "(Meta)cognitive": {
+            "Knowledge": 1,
+            "Understanding": 2,
+            "Application": 3,
+            "Analysis": 4,
+            "Reflection": 5
+        },
+        "Affective": {
+            "Attention": 1,
+            "Interest": 2,
+            "Appreciation": 3,
+            "Empathy": 4,
+            "Attitude": 5
+        },
+        "Social": {
+            "Contact": 1,
+            "Agreement": 2,
+            "Relationship": 3,
+            "Cooperation": 4,
+            "Team": 5
+        },
+        "Motoric": {
+            "Imagination": 1,
+            "Imitation": 2,
+            "Automation": 3,
+            "Demonstration": 4,
+            "Virtuosity": 5
+        }
+    }
+}
