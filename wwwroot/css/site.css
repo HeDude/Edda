@@ -281,3 +281,124 @@ button {
     color: darkblue; /* Text color set to white */
     z-index: 99; /* Below the items but above the canvas */
 }
+
+/* Clear float after the divs to prevent layout issues */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* General table styling */
+.skill-types-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    /* Styling for table header (Main Types) */
+    .skill-types-table thead th {
+        background-color: #007BFF;
+        color: white;
+        text-align: left;
+        padding: 10px;
+    }
+
+    /* Styling for table rows */
+    .skill-types-table tbody tr {
+        border-bottom: 1px solid #ccc;
+    }
+
+    /* Styling for table cells (Subtypes) */
+    .skill-types-table tbody td {
+        background-color: #E6F7FF;
+        padding: 10px;
+        text-align: center;
+    }
+
+    /* Alternate row styling */
+    .skill-types-table tbody tr:nth-child(even) td {
+        background-color: #B3E0FF;
+    }
+
+/* Styling for highlighted cells */
+.highlight {
+    background-color: #FFFF00; /* Yellow background */
+    font-weight: bold; /* Bold text */
+    color: green; /* Black text */
+}
+
+.checkbox {
+    margin-bottom: 10px;
+}
+
+.algebra-label, .smart-label, .type-label {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Update button styles */
+.update-button {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    display: block;
+}
+
+    .update-button.active {
+        background-color: green;
+    }
+
+.skilleditor-check-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .skilleditor-check-table th,
+    .skilleditor-check-table td {
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+
+    .skilleditor-check-table th {
+        background-color: #f2f2f2;
+    }
+
+    /* You can adjust these widths as needed */
+    .skilleditor-check-table td.types {
+        width: 50%;
+    }
+
+    .skilleditor-check-table td.algebra {
+        width: 25%;
+    }
+
+    .skilleditor-check-table td.smart {
+        width: 25%;
+    }
+
+.syntax {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+    .syntax label {
+        width: 100%;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 10px;
+        background-color: #B3E0FF;
+    }
+
+.syntax input {
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+.syntax .form-control-static {
+    flex: 1;
+}

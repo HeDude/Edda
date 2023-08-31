@@ -1,0 +1,44 @@
+{
+    "who": {
+        "label": "Who",
+        "options": [
+            "The learner",
+            "The student",
+            "The trainee",
+            "The participant"
+        ]
+    },
+    "verb": {
+        "label": "knows/can",
+        "options": [
+            {
+                "value": "can",
+                "label": "can"
+            },
+            {
+                "value": "knows",
+                "label": "knows"
+            }
+        ]
+    },
+    "when": {
+        "label": "When",
+        "default": "after the training"
+    },
+    "with": {
+        "label": "With",
+        "default": "with all provided resources"
+    },
+    "what": {
+        "label": "What",
+        "default": "guide others in describing learning goals"
+    },
+    "which": {
+        "label": "Which",
+        "default": "so that they are SMART enough to guarantee"
+    },
+    "how": {
+        "label": "How",
+        "default": "that the same has been learned through an alternative learning path."
+    }
+}

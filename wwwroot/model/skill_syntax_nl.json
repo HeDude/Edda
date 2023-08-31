@@ -1,0 +1,44 @@
+{
+    "who": {
+        "label": "Wie",
+        "options": [
+            "De leerling",
+            "De student",
+            "De trainee",
+            "De cursist"
+        ]
+    },
+    "verb": {
+        "label": "kent/kan",
+        "options": [
+            {
+                "value": "kan",
+                "label": "kan"
+            },
+            {
+                "value": "kent",
+                "label": "kent"
+            }
+        ]
+    },
+    "when": {
+        "label": "Wanneer",
+        "default": "na de training"
+    },
+    "with": {
+        "label": "Waarmee",
+        "default": "met alle daartoe beschikbare gestelde middelen"
+    },
+    "what": {
+        "label": "Wat",
+        "default": "anderen begeleiden met het beschrijven van leerdoelen"
+    },
+    "which": {
+        "label": "Welk",
+        "default": "zodanig dat deze voldoende SMART zijn om te garanderen"
+    },
+    "how": {
+        "label": "Hoe",
+        "default": "dat er hetzelfde is geleerd middels een alternatieve leerroute."
+    }
+}

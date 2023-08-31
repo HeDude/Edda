@@ -1,0 +1,134 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Skilleditor";
+}
+    <form class="container" action="#" method="post">
+        <div class="circle wide"></div>
+        <h1 class="syntax-header text-center">Syntax</h1>
+        <h1 class="smart-header text-center">SMART</h1>
+        <h1 class="types-header text-center">Typen</h1>
+        <h1 class="algebra-header text-center">Algebra</h1>
+        <div class="syntax">
+            <label for="who">Wie?:</label>
+            <input class="form-control-static" list="learners" id="who" name="who">
+            <datalist id="learners">
+                <option selected="selected" value="De leerling"></option>
+                <option value="De student"></option>
+                <option value="De trainee"></option>
+                <option value="De cursist"></option>
+            </datalist><br/><br/>
+
+            <label for="verb">kent/kan:</label>
+            <select name="verb">
+                <option value="kan">kan</option>
+                <option value="kent">kent</option>
+            </select><br/><br/>
+
+            <label for="when">Wanneer?:</label>
+            <input class="form-control-static resize_with_content" type="text" name="when" value="na de training"><br/><br/>
+
+            <label for="with">Waarmee?:</label>
+            <input class="form-control-static resize_with_content" type="text" name="with" value="met alle daartoe beschikbare gestelde middelen"><br/><br/>
+
+            <label for="what">Wat?:</label>
+            <input class="form-control-static resize_with_content" type="text" name="what" value="anderen begeleiden met het beschrijven van leerdoelen"><br/><br/>
+
+            <label for="which">Welk?:</label>
+            <input class="form-control-static resize_with_content" type="text" name="which" value="zodanig dat deze voldoende SMART zijn om te garanderen"><br/><br/>
+
+            <label for="how">Hoe?:</label>
+            <input class="form-control-static resize_with_content" type="text" name="how" value="dat er hetzelfde is geleerd middels een alternatieve leerroute."><br/><br/>
+        </div>
+        <div class="smart">
+            <div class="checkbox">
+                <label class="smart-label">Specifiek&nbsp;</label><input type="checkbox" value="">
+            </div>
+            <div class="checkbox">
+                <label class="smart-label">Meetbaar&nbsp;</label><input type="checkbox" value="">
+            </div>
+            <div class="checkbox">
+                <label class="smart-label">Acceptabel&nbsp;</label><input type="checkbox" value="">
+            </div>
+            <div class="checkbox">
+                <label class="smart-label">Realistisch&nbsp;</label><input type="checkbox" value="">
+            </div>
+            <div class="checkbox">
+                <label class="smart-label">Tijdsgebonden&nbsp;</label><input type="checkbox" value="">
+            </div>
+        </div>
+        <div class="types">
+            <div class="btn-group-vertical btn-md">
+              <button type="button" class="btn btn-default disabled">Cognitieve</button>
+              <button type="button" class="btn btn-primary cognitive">Reflectie</button>
+              <button type="button" class="btn btn-primary cognitive">Analyse</button>
+              <button type="button" class="btn btn-primary cognitive">Toepassing</button>
+              <button type="button" class="btn btn-primary cognitive">Begrip</button>
+              <button type="button" class="btn btn-primary cognitive">Kennis</button>
+            </div>
+            <div class="btn-group-vertical btn-md">
+              <button type="button" class="btn btn-default disabled">Affectieve</button>
+              <button type="button" class="btn btn-primary affective">Houding</button>
+              <button type="button" class="btn btn-primary affective">Empathie</button>
+              <button type="button" class="btn btn-primary affective">Waardering</button>
+              <button type="button" class="btn btn-primary affective">Interesse</button>
+              <button type="button" class="btn btn-primary affective">Aandacht</button>
+            </div>
+            <div class="btn-group-vertical btn-md">
+              <button type="button" class="btn btn-default disabled">Sociale</button>
+              <button type="button" class="btn btn-primary social">Team</button>
+              <button type="button" class="btn btn-primary social">Co&ouml;peratie</button>
+              <button type="button" class="btn btn-primary social">Relatie</button>
+              <button type="button" class="btn btn-primary social">Afspraak</button>
+              <button type="button" class="btn btn-primary social">Contact</button>
+            </div>
+            <div class="btn-group-vertical btn-md">
+              <button type="button" class="btn btn-default disabled">Motorische</button>
+              <button type="button" class="btn btn-primary motoric">Virtuositeit</button>
+              <button type="button" class="btn btn-primary motoric">Demonstratie</button>
+              <button type="button" class="btn btn-primary motoric">Automatisme</button>
+              <button type="button" class="btn btn-primary motoric">Imitatie</button>
+              <button type="button" class="btn btn-primary motoric">Imaginatie</button>
+            </div>
+        </div>
+        <div class="algebra">
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &int; nauwgezetheid + creativiteit + openheid + stabiliteit</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &Delta; voorspelling</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &epsilon; gedrag</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &ne; vriendelijk</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &sum; subleerdoelen</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &#126; motivatie &#9679; ondersteuning</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &rarr; erkenning + tevredenheid</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &gt; lat</label>
+            </div>
+            <div class="checkbox">
+                <label class="algebra-label"><input type="checkbox" value=""> &asymp; beloning / inspanning</label>
+            </div>
+        </div>
+        <div class="check_circle">
+            <input type="submit" class="check_button btn btn-success btn-circle" value="Check">
+        </div>
+    </form>
+
+    <span id="hide">Used for scaling elementes with content</span>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <script src="script/common.js">
+    </script>
+
