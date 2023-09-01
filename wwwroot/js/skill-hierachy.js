@@ -19,6 +19,7 @@ fetch('./model/skill.json')
                 const li = document.createElement('li');
                 const span = document.createElement('span');
                 const viewLink = document.createElement('a');
+                const editLink = document.createElement('a');
                 const editIcon = document.createElement('span');
                 const moveIcon = document.createElement('span');
 
@@ -27,12 +28,16 @@ fetch('./model/skill.json')
                 viewLink.innerHTML = "&#x1F441;"; // Eye icon
                 viewLink.style.textDecoration = "none"; // Remove underline
 
+                editLink.href = `./Skilleditor?title=${encodeURIComponent(item.title)}`;
+                editLink.style.textDecoration = "none"; // Remove underline
                 editIcon.innerHTML = "&#x270E;"; // Pencil icon
+                editLink.appendChild(editIcon);
+
                 moveIcon.innerHTML = "&#x2194;&#x2195;"; // Left-right-up-down arrows
 
                 span.appendChild(viewLink);
                 span.appendChild(document.createTextNode(" "));
-                span.appendChild(editIcon);
+                span.appendChild(editLink);
                 span.appendChild(document.createTextNode(" "));
                 span.appendChild(moveIcon);
                 span.appendChild(document.createTextNode(" " + item.name));
